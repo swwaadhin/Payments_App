@@ -26,4 +26,3 @@ A secure and user-friendly digital payment exchange platform inspired by Paytm. 
 - MongoDB 
 
 
-# Update: Pushed using Git
